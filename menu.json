@@ -1,0 +1,48 @@
+{
+    "yummy": [
+        {
+            "titleImg" :"image/yummybg-removebg-preview.png",
+            "title": "$ 150.00",
+            "src": "image/yummy3.png" 
+        },
+        {
+            "title": "$ 160.00",
+            "src": "image/yummy.png"   
+        },
+        {
+            "title": "$ 170.00",
+            "src": "image/yummy1.png"   
+        }
+    ],
+    "kitKat": [
+        {
+            "titleImg" : "image/pngwing.com.png",
+            "title": "$ 150.00",
+            "src": "image/kitkat.png"   
+        },
+        {
+            "title": "KitKat",
+            "src": "image/kitkat1.png"   
+        },
+        {
+            "title": "KitKat",
+            "src": "image/kitkat2.png"   
+        }
+    ],
+    "dairyMilk": [
+        {
+            "titleImg" : "image/dairymilkbg.png",
+            "title": "DairyMilk",
+            "src": "image/dairymilk.png"    
+        },
+        {
+            "title": "DairyMilk",
+            "src": "image/dairymilk1.png"    
+        },
+        {
+            "title": "DairyMilk",
+            "src": "image/dairymilk2.png"    
+        }
+
+    ]
+}
